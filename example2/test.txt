@@ -1,1 +1,2 @@
-This is test1 in master
+This is test1 in master.
+This is test2 in master.
